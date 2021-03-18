@@ -1,1 +1,1 @@
-# Moment_Mori
+<script src="./bundle.js/main.js"></script>
